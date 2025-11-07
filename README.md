@@ -23,7 +23,7 @@ ElectricBlue connects you straight to trusted Ethereum mining pools, allowing yo
 
 Official Ethereum Wallets ➜ www.ethereum.org/wallets
 
-Telegram ➜ t.me/CryptoFans101
+Telegram ➜ www.t.me/CryptoFans101
 
 📘 Recommended For:
 
