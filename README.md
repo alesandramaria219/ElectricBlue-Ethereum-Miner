@@ -20,14 +20,19 @@ ElectricBlue connects you straight to trusted Ethereum mining pools, allowing yo
 
 
 💰 Get Started Today:
+
 Official Ethereum Wallets ➜ www.ethereum.org/wallets
+
 Telegram ➜ t.me/CryptoFans101
 
 📘 Recommended For:
 
 Beginners learning how to mine Ethereum
+
 Crypto enthusiasts looking for easy ETH mining software
+
 Users who want to mine Ethereum without a GPU rig
+
 People searching for passive crypto income options
 
 ⚠️ Disclaimer:
